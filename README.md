@@ -1,5 +1,5 @@
 ## Hey there, welcome to my profile.
-![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/9133459?color=F48024&style=for-the-badge)
+![StackOverflowReputation](https://img.shields.io/stackexchange/stackoverflow/r/9133459?color=F48024&style=for-the-badge)
 - It's nice to see that you have some interest in me. 
 - TL;DR - I am currently a graduate student at the National University of Singapore. 
 - Find out more about me below!
