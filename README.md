@@ -11,4 +11,4 @@
 - ⚡ Fun fact: Sublime Text 3 > Visual Studio Code.
 
 ### Where to find me
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0072b1?&style=for-the-badge&logo=linkedin)](www.linkedin.com/in/rajdeephu)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0072b1?&style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rajdeephu)
