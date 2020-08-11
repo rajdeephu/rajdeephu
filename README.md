@@ -1,5 +1,5 @@
 ## Hey there, welcome to my profile.
-[![StackOverflowReputation](https://img.shields.io/stackexchange/stackoverflow/r/9133459?color=F48024&style=for-the-badge)](https://stackoverflow.com/users/9133459/rajdeep)
+[![StackOverflowReputation](https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fstack-overflow-reputation-u6meagg2ic1e.runkit.sh&labelColor=black)](https://stackoverflow.com/users/9133459/rajdeep)
 - It's nice to see that you have some interest in me. 
 - TL;DR - I am currently a graduate student at the National University of Singapore. 
 - Find out more about me below!
