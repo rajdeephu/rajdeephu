@@ -9,7 +9,7 @@
 - 🤔 I’m looking for help with life.
 - 💬 Ask me about Harry Potter and I can talk for days.
 - 😄 Pronouns: Mr.
-- ⚡ Fun fact: Sublime Text 3 > Visual Studio Code.
+- ⚡ Fun fact: Sublime Text > Visual Studio Code.
 
 ### Where to find me
 [![StackOverflow](https://img.shields.io/badge/STACKOVERFLOW-black?style=for-the-badge&logo=stackoverflow)](https://stackoverflow.com/users/9133459/rajdeep)
